@@ -1,1 +1,0 @@
-npm run build && rm /usr/share/nginx/html/cv/* -r && cp dist/* /usr/share/nginx/html/cv/ -r
