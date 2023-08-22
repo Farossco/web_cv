@@ -1,44 +1,39 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Farès Chati",
+    "occupation": "Embedded Software Engineer",
+    "location": "Bascharage, LU",
+    "avatar": "avatar.jfif",
+    "email": "fares@chati.lu",
+    "telephone": "+33 7 81 33 59 43",
+    "website": "https://fares.chati.lu",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "C/C++",
+        "Assembly",
+        "Python",
+        "VHDL",
+        "Java",
+        "Linux Shell"
     ],
     "languages": [
         {
-            "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
             "name": "French",
-            "level": "basic"
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "Professionnal - Linguaskill Certification : 180+"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@Farossco",
+            "url": "https://github.com/farossco"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "fares-chati",
+            "url": "https://www.linkedin.com/in/fares-chati"
         }
     ]
 }
